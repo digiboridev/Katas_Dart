@@ -1,5 +1,1 @@
-import 'dart:svg';
-
-void main(List<String> arguments) {
-  print('Hru baby!');
-}
+void main(List<String> arguments) {}
